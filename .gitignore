@@ -9,3 +9,4 @@ dist/
 hugo.exe
 hugo.linux
 *_bak*
+hugo_stats.json
