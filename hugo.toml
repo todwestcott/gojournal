@@ -1,4 +1,5 @@
 ######################## default configuration ####################
+# baseURL = "localhost:1313/gojournal/site"
 baseURL = "verdonna.netlify.app"
 title = "GoJournal | Hugo Personal Blog Template"
 theme = "gojournal-hugo"
