@@ -72,7 +72,6 @@
       <div class="col-12 text-center">
         <h2 class="section-title">Trending</h2>
       </div>
-
       {{ range (where .Site.RegularPages "Type" "trending")}}
       {{ if .Params.Image }}
       <div class="col-lg-6 mb-4">
